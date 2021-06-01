@@ -1,0 +1,12 @@
+
+/backup/*
+/db/*
+/initdb/*
+
+/docker-compose.*
+/.env
+
+/apps/*
+/config/*
+/data/*
+/nextcloud/*
